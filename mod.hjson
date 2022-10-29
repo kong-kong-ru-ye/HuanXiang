@@ -1,23 +1,8 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
-
-#the internal name of your mod
-name: "example-java-mod"
-
-#your name
-author: "You"
-
-#the fully qualified main class of the mod
+displayName: "幻想"
+name: "huan-xiang"
+author: "自由"
 main: "example.ExampleJavaMod"
-
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
-
-#the mod version
-version: 1.0
-
-#the minimum game build required to run this mod
-minGameVersion: 129
-
-#this is a java mod
+description: "一个测试的Javamod"
+version:1.0
+minGameVersion: 139
 java: true
